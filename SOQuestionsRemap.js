@@ -9,6 +9,6 @@
 // ==/UserScript==
 
   document.getElementById("nav-questions").onclick = function() {
-    document.getElementById("nav-questions").href="http://stackoverflow.com/questions/tagged/sas-macro%20sas%20enterprise-guide%20sas-ods%20sas-gtl?mode=any";
+    document.getElementById("nav-questions").href="http://stackoverflow.com/questions/tagged/YourTagsHere";
     return true;
   };
